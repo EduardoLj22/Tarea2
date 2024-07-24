@@ -1,0 +1,56 @@
+[
+    {
+        "time": 1616087173408,
+        "error_id": "249911fc-ce9d-4905-a934-745845b41c7a",
+        "errors": {
+            "tip:": "",
+            "topic": "Gaming is not a valid topic",
+            "username": ""
+        }
+    },
+    {
+        "time": 1616087196372,
+        "error_id": "a27c0017-0ac4-4f81-83a4-2adcb42737c3",
+        "errors": {
+            "tip:": "Tip must be at least 15 characters long",
+            "topic": "",
+            "username": ""
+        }
+    },
+    {
+        "time": 1616087317843,
+        "error_id": "ca0616fa-f603-4d85-a9c6-fa62c73a9bf9",
+        "errors": {
+            "tip:": "Tip must be at least 15 characters long",
+            "topic": "",
+            "username": " Username is too short"
+        }
+    },
+    {
+        "time": "2024-07-23T23:17:58.534Z",
+        "errors": {
+            "username": "",
+            "tip": "Tip must be at least 15 characters",
+            "topic": ""
+        },
+        "error_id": "0d1933ba-e9a9-497b-9f61-40ddd6c5ee46"
+    },
+    {
+        "time": "2024-07-23T23:18:00.285Z",
+        "errors": {
+            "username": "",
+            "tip": "Tip must be at least 15 characters",
+            "topic": ""
+        },
+        "error_id": "2693100b-299b-4634-9ea4-1c5baabbae25"
+    },
+    {
+        "time": "2024-07-23T23:18:02.492Z",
+        "errors": {
+            "username": "",
+            "tip": "Tip must be at least 15 characters",
+            "topic": ""
+        },
+        "error_id": "a9a46880-b106-461c-b9ab-f1806588c252"
+    }
+]
